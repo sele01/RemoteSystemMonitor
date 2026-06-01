@@ -1,0 +1,3 @@
+//exclude the target directory which contains compiled files and build artifacts
+
+target/
